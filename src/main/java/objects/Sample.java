@@ -1,5 +1,5 @@
 package objects;
 
-public class Account {
+public class Sample {
     
 }
