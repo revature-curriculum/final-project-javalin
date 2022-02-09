@@ -5,7 +5,7 @@
 </head>
 <body>
 
-  Welcome!
+  Welcome! <br>
 
   <a href="/breakfastMenu">See Breakfast Menu</a> <br>
   <a href="/lunchMenu">See Lunch Menu</a> <br>
